@@ -13,10 +13,9 @@
     "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
   },
   "engines": {
-    "node": "20.x",
+    "node": "14 || 15 || 16",
     "npm": ">=6"
   },
-  
   "dependencies": {
     "@emotion/cache": "^11.7.1",
     "@emotion/react": "^11.7.1",
